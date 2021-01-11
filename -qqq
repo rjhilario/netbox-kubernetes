@@ -1,0 +1,203 @@
+[33mcommit 4785fba8a948b7db7aad970c4ae7cae76d9bea31[m[33m ([m[1;36mHEAD -> [m[1;32mrevised[m[33m, [m[1;31morigin/revised[m[33m, [m[1;32mmaster[m[33m)[m
+Author: root <root@abu01a.vii00p3qlyfufefr15anzg0bzb.ix.internal.cloudapp.net>
+Date:   Fri Jan 8 12:37:37 2021 +0000
+
+    revise YAMLs
+
+[33mcommit 805114e650771bb077cd4e749aa16a9b6bc53515[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: e65755b e62c2ec
+Author: vishnoisuresh <31860369+vishnoisuresh@users.noreply.github.com>
+Date:   Fri Dec 15 12:23:11 2017 +0100
+
+    Merge pull request #1 from Roderick-Jonsson/patch-1
+    
+    Allow all hosts
+
+[33mcommit e62c2ec839579d5bccf77cba5d793975522cd980[m
+Merge: e58cecf e65755b
+Author: vishnoisuresh <31860369+vishnoisuresh@users.noreply.github.com>
+Date:   Fri Dec 15 12:22:38 2017 +0100
+
+    Merge branch 'master' into patch-1
+
+[33mcommit e58cecff88813b77874805f30125db3b29b3c57f[m
+Merge: 027c20f e65755b
+Author: vishnoisuresh <31860369+vishnoisuresh@users.noreply.github.com>
+Date:   Thu Dec 14 10:19:18 2017 +0100
+
+    Merge branch 'master' into patch-1
+
+[33mcommit e65755b1ccd57d9e90a66c92297c8c6ddcfb6fb3[m
+Author: vishnoisuresh <31860369+vishnoisuresh@users.noreply.github.com>
+Date:   Thu Dec 14 10:17:43 2017 +0100
+
+    Update netbox-all.yaml
+    
+    allowing all hosts to access netbox
+
+[33mcommit 35cff69fb620b19f9e304bf70a6918dc4292c395[m
+Author: vishnoisuresh <31860369+vishnoisuresh@users.noreply.github.com>
+Date:   Wed Dec 13 22:04:28 2017 +0100
+
+    Update netbox-all.yaml
+
+[33mcommit b09cb04cf5a9608000c37b74f1d30c852c74ac71[m
+Author: vishnoisuresh <31860369+vishnoisuresh@users.noreply.github.com>
+Date:   Wed Dec 13 22:03:03 2017 +0100
+
+    Update README.md
+
+[33mcommit ca309b85078e44572e1716ed939da9eabacbec49[m
+Author: vishnoisuresh <31860369+vishnoisuresh@users.noreply.github.com>
+Date:   Wed Dec 13 22:02:23 2017 +0100
+
+    Update README.md
+
+[33mcommit b313ace55ef892631b81a84989e408c2f32e0140[m
+Author: vishnoisuresh <31860369+vishnoisuresh@users.noreply.github.com>
+Date:   Wed Dec 13 22:01:20 2017 +0100
+
+    Update README.md
+    
+    Accessing it using nodeport
+
+[33mcommit 027c20fa92aaaea614b91801f314811fd139a4b6[m
+Author: Roderick-Jonsson <Roderick-Jonsson@users.noreply.github.com>
+Date:   Tue Dec 12 20:22:52 2017 +0100
+
+    Allow all hosts
+    
+    If you want to allow access from all hosts this would be it to make your container reachable outside the cluster
+
+[33mcommit f2b854c2f4f523b1495377f2ee89f7e6da7db159[m
+Merge: 72045f0 9437471
+Author: vishnoisuresh <vishnoi.suresh2016@gmail.com>
+Date:   Tue Dec 12 15:26:52 2017 +0100
+
+    Merge branch 'master' of https://github.com/vishnoisuresh/netbox-kubernetes
+
+[33mcommit 72045f0e05016cc1112df2a5d70db6bb241b4265[m
+Author: vishnoisuresh <vishnoi.suresh2016@gmail.com>
+Date:   Tue Dec 12 15:26:45 2017 +0100
+
+    new version
+
+[33mcommit 94374714af3f4dff5e04bb3ec6024b4eaf952f30[m
+Author: vishnoisuresh <31860369+vishnoisuresh@users.noreply.github.com>
+Date:   Tue Dec 12 15:18:40 2017 +0100
+
+    Update netbox-all.yaml
+
+[33mcommit 9c4693dfe45443a9b8176d53801d11974468e28b[m
+Author: vishnoisuresh <31860369+vishnoisuresh@users.noreply.github.com>
+Date:   Tue Dec 12 15:01:21 2017 +0100
+
+    Update netbox-all.yaml
+
+[33mcommit 1c2544a1579ea02e9c4c04b1732d016aa83c8b4f[m
+Author: vishnoisuresh <31860369+vishnoisuresh@users.noreply.github.com>
+Date:   Tue Dec 12 15:00:39 2017 +0100
+
+    Update nginx-all.yaml
+
+[33mcommit 9654a38bd2552d44c2e5c7f111a87c5acca32730[m
+Author: vishnoisuresh <31860369+vishnoisuresh@users.noreply.github.com>
+Date:   Fri Dec 8 16:48:52 2017 +0100
+
+    Update netbox-all.yaml
+
+[33mcommit ff98b9ec5da98c390c3666a09221efd44b84f002[m
+Author: vishnoisuresh <31860369+vishnoisuresh@users.noreply.github.com>
+Date:   Sat Nov 18 23:44:10 2017 +0100
+
+    Update README.md
+
+[33mcommit dbc893eb64668689dfbd580a2d046b063f8b1044[m
+Author: vishnoisuresh <31860369+vishnoisuresh@users.noreply.github.com>
+Date:   Sat Nov 18 23:41:31 2017 +0100
+
+    Update README.md
+
+[33mcommit 98485f636454d7b93b767f76f675f6e48abf59f7[m
+Author: vishnoisuresh <31860369+vishnoisuresh@users.noreply.github.com>
+Date:   Sat Nov 18 23:21:41 2017 +0100
+
+    Update README.md
+
+[33mcommit 89c646a6dff1cc35ee0c8b0463db68658c1a4058[m
+Author: vishnoisuresh <31860369+vishnoisuresh@users.noreply.github.com>
+Date:   Sat Nov 18 23:12:05 2017 +0100
+
+    Update README.md
+
+[33mcommit be142bf5eff83f7b0d4a7cc430a656cc766de4bf[m
+Author: vishnoisuresh <31860369+vishnoisuresh@users.noreply.github.com>
+Date:   Sat Nov 18 23:11:43 2017 +0100
+
+    local port can be modified
+
+[33mcommit 72dbf6b06ade95de52f25984d0d43d6401027654[m
+Author: vishnoisuresh <31860369+vishnoisuresh@users.noreply.github.com>
+Date:   Sat Nov 18 23:07:48 2017 +0100
+
+    misspelt
+
+[33mcommit 504c51754dee6f8d0e7cbad5c1f31ad3d2192a7a[m
+Author: vishnoisuresh <31860369+vishnoisuresh@users.noreply.github.com>
+Date:   Sat Nov 18 23:03:46 2017 +0100
+
+    added service manifest file
+
+[33mcommit 061b61b2abe4a578a09fee1354d48de417a38241[m
+Author: vishnoisuresh <31860369+vishnoisuresh@users.noreply.github.com>
+Date:   Sat Nov 18 22:59:28 2017 +0100
+
+    added namespace flag set for apply and port-forward operations
+
+[33mcommit 4916a96565ad4e8c8a6a070fd622b75158b015b4[m
+Author: vishnoisuresh <31860369+vishnoisuresh@users.noreply.github.com>
+Date:   Sat Nov 18 22:57:51 2017 +0100
+
+    removed unnecessary argument and command
+
+[33mcommit 1293d58dfa53b7117e2cb78159156ce3cab3b7be[m
+Author: vishnoisuresh <31860369+vishnoisuresh@users.noreply.github.com>
+Date:   Sat Nov 18 22:52:51 2017 +0100
+
+    nginx manifest file
+
+[33mcommit f1c6ab29db7c887ceb2ec0f798d83ee2eefd5f58[m
+Author: vishnoisuresh <31860369+vishnoisuresh@users.noreply.github.com>
+Date:   Sat Nov 18 22:47:48 2017 +0100
+
+    netbox manifest file
+
+[33mcommit cc53b3cbe409046ad8a19ce7653a8f7a2bea80ff[m
+Author: vishnoisuresh <31860369+vishnoisuresh@users.noreply.github.com>
+Date:   Sat Nov 18 22:38:36 2017 +0100
+
+    postgres manifest file
+
+[33mcommit ebcc728c0ca1abfe33c1ed3b432527df8efc1c6c[m
+Author: vishnoisuresh <31860369+vishnoisuresh@users.noreply.github.com>
+Date:   Sat Nov 18 22:34:00 2017 +0100
+
+    updated
+
+[33mcommit 0498c30c61ae495ddf8d4e447badf2e41d04fcda[m
+Author: vishnoisuresh <31860369+vishnoisuresh@users.noreply.github.com>
+Date:   Sat Nov 18 22:32:57 2017 +0100
+
+    created namespace file
+
+[33mcommit b6442e5654709111829f2dd4d9fd21c1e6a92143[m
+Author: vishnoisuresh <31860369+vishnoisuresh@users.noreply.github.com>
+Date:   Sat Nov 18 22:27:59 2017 +0100
+
+    basic guidance
+
+[33mcommit ae5627b2f8fb0fbd1e158ad9d7dad8b8189fd7ac[m
+Author: vishnoisuresh <31860369+vishnoisuresh@users.noreply.github.com>
+Date:   Sat Nov 18 22:03:53 2017 +0100
+
+    Initial commit
